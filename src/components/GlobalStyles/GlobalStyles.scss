@@ -1,0 +1,19 @@
+@import 'normalize.css';
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;500;600;700&family=Raleway:ital,wght@0,100;0,200;0,300;0,500;1,100;1,200;1,300;1,400;1,500&family=Roboto:ital,wght@0,100;1,100;1,300&display=swap');
+
+:root {
+	--primary-color: #fe2c55;
+	--primary-link: #fe2c55;
+}
+
+html {
+	font-size: 62.5%;
+}
+
+body {
+	font-size: 1.6rem;
+	font-family: 'Montserrat', sans-serif;
+	font-family: 'Raleway', sans-serif;
+	font-family: 'Roboto', sans-serif;
+	text-rendering: optimizeSpeed;
+}
